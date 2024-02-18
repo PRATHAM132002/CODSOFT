@@ -1,6 +1,6 @@
 # CODSOFT Internship Tasks
 
-Welcome to the CODSOFT Internship Tasks Repository! This repository contains details of three tasks assigned during the internship period in the field of Sata Science. Each task focuses on different aspects of data analysis, machine learning, and prediction.
+Welcome to the CODSOFT Internship Tasks Repository! This repository contains details of three tasks assigned during the internship period in the field of Data Science. Each task focuses on different aspects of data analysis, machine learning, and prediction.
 
 ## Task 1: Titanic Survival Prediction
 
